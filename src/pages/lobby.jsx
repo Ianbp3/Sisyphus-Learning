@@ -1,16 +1,12 @@
-import React, { useState } from "react";
+import React from "react";
 import logo2 from "../Logo2.png";
 import hgman from "../HangmanColor.png";
 import pairsG from "../Pairs.png";
 import { useGlobal } from "./GlobalContext";
 
 import {
-  Form,
-  Input,
   Button,
   Avatar,
-  Space,
-  message,
   Divider,
   Typography,
   Flex,
@@ -31,7 +27,7 @@ import { useNavigate } from "react-router-dom";
 const { Title } = Typography;
 
 function Lobby() {
-  const { globalVariable, setGlobalVariable } = useGlobal();
+  const { globalVariable } = useGlobal();
   const navigate = useNavigate();
   return (
     <div>
@@ -133,7 +129,11 @@ function Lobby() {
                 onClick={() => navigate("/Hangman")}
               >
                 DEFINICIONES
-                <img src={hgman} style={{ width: "100px", height: "100px" }} />
+                <img
+                  src={hgman}
+                  alt=""
+                  style={{ width: "100px", height: "100px" }}
+                />
               </Button>
               <Button
                 style={{
@@ -151,7 +151,11 @@ function Lobby() {
                 onClick={() => navigate("/Pairs")}
               >
                 PARES
-                <img src={pairsG} style={{ width: "100px", height: "100px" }} />
+                <img
+                  src={pairsG}
+                  alt=""
+                  style={{ width: "100px", height: "100px" }}
+                />
               </Button>
             </Flex>
             <Progress

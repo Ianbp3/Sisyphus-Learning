@@ -131,7 +131,7 @@ function Pairs() {
 
     shuffleCard();
     cards.forEach((card) => card.addEventListener("click", flipCard));
-  }, []);
+  }, [globalVariable, navigate, setGlobalVariable]);
   return (
     <div className="pairs_body">
       <div class="wrapper">

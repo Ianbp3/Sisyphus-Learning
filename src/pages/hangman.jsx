@@ -96,7 +96,6 @@ function Hangman() {
         "p"
       ).innerHTML = `${modalText} <b>${currentWord}</b>`;
       gameModal.classList.add("show");
-      setGlobalVariable(globalVariable + 10);
     };
 
     const initGame = (button, clickedLetter) => {
@@ -178,7 +177,13 @@ function Hangman() {
           <p>
             La palabra correcta era: <b>rainbow</b>
           </p>
-          <button className="PlayAgain" onClick={() => navigate("/Lobby")}>
+          <button
+            className="PlayAgain"
+            onClick={() => {
+              navigate("/Lobby");
+              setGlobalVariable(globalVariable + 10);
+            }}
+          >
             Regresar
           </button>
         </div>
