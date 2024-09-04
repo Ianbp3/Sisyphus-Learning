@@ -138,7 +138,7 @@ function Pairs() {
         <ul class="cards">
           <li class="card">
             <div class="view front-view">
-              <img src={require("../images/que_icon.svg")} alt="?" />
+              <img src={require("../images/que_icon.png")} alt="?" />
             </div>
             <div class="view back-view">
               <img src={require("../images/img-1.png")} alt="card-img" />
@@ -146,7 +146,7 @@ function Pairs() {
           </li>
           <li class="card">
             <div class="view front-view">
-              <img src={require("../images/que_icon.svg")} alt="?" />
+              <img src={require("../images/que_icon.png")} alt="?" />
             </div>
             <div class="view back-view">
               <img src={require("../images/img-6.png")} alt="card-img" />
@@ -154,7 +154,7 @@ function Pairs() {
           </li>
           <li class="card">
             <div class="view front-view">
-              <img src={require("../images/que_icon.svg")} alt="?" />
+              <img src={require("../images/que_icon.png")} alt="?" />
             </div>
             <div class="view back-view">
               <img src={require("../images/img-3.png")} alt="card-img" />
@@ -162,7 +162,7 @@ function Pairs() {
           </li>
           <li class="card">
             <div class="view front-view">
-              <img src={require("../images/que_icon.svg")} alt="?" />
+              <img src={require("../images/que_icon.png")} alt="?" />
             </div>
             <div class="view back-view">
               <img src={require("../images/img-2.png")} alt="card-img" />
@@ -170,7 +170,7 @@ function Pairs() {
           </li>
           <li class="card">
             <div class="view front-view">
-              <img src={require("../images/que_icon.svg")} alt="?" />
+              <img src={require("../images/que_icon.png")} alt="?" />
             </div>
             <div class="view back-view">
               <img src={require("../images/img-1.png")} alt="card-img" />
@@ -178,7 +178,7 @@ function Pairs() {
           </li>
           <li class="card">
             <div class="view front-view">
-              <img src={require("../images/que_icon.svg")} alt="?" />
+              <img src={require("../images/que_icon.png")} alt="?" />
             </div>
             <div class="view back-view">
               <img src={require("../images/img-5.png")} alt="card-img" />
@@ -186,7 +186,7 @@ function Pairs() {
           </li>
           <li class="card">
             <div class="view front-view">
-              <img src={require("../images/que_icon.svg")} alt="?" />
+              <img src={require("../images/que_icon.png")} alt="?" />
             </div>
             <div class="view back-view">
               <img src={require("../images/img-2.png")} alt="card-img" />
@@ -194,7 +194,7 @@ function Pairs() {
           </li>
           <li class="card">
             <div class="view front-view">
-              <img src={require("../images/que_icon.svg")} alt="?" />
+              <img src={require("../images/que_icon.png")} alt="?" />
             </div>
             <div class="view back-view">
               <img src={require("../images/img-6.png")} alt="card-img" />
@@ -202,7 +202,7 @@ function Pairs() {
           </li>
           <li class="card">
             <div class="view front-view">
-              <img src={require("../images/que_icon.svg")} alt="?" />
+              <img src={require("../images/que_icon.png")} alt="?" />
             </div>
             <div class="view back-view">
               <img src={require("../images/img-3.png")} alt="card-img" />
@@ -210,7 +210,7 @@ function Pairs() {
           </li>
           <li class="card">
             <div class="view front-view">
-              <img src={require("../images/que_icon.svg")} alt="?" />
+              <img src={require("../images/que_icon.png")} alt="?" />
             </div>
             <div class="view back-view">
               <img src={require("../images/img-4.png")} alt="card-img" />
@@ -218,7 +218,7 @@ function Pairs() {
           </li>
           <li class="card">
             <div class="view front-view">
-              <img src={require("../images/que_icon.svg")} alt="?" />
+              <img src={require("../images/que_icon.png")} alt="?" />
             </div>
             <div class="view back-view">
               <img src={require("../images/img-5.png")} alt="card-img" />
@@ -226,7 +226,7 @@ function Pairs() {
           </li>
           <li class="card">
             <div class="view front-view">
-              <img src={require("../images/que_icon.svg")} alt="?" />
+              <img src={require("../images/que_icon.png")} alt="?" />
             </div>
             <div class="view back-view">
               <img src={require("../images/img-4.png")} alt="card-img" />
@@ -234,7 +234,7 @@ function Pairs() {
           </li>
           <li class="card">
             <div class="view front-view">
-              <img src={require("../images/que_icon.svg")} alt="?" />
+              <img src={require("../images/que_icon.png")} alt="?" />
             </div>
             <div class="view back-view">
               <img src={require("../images/img-4.png")} alt="card-img" />
@@ -242,7 +242,7 @@ function Pairs() {
           </li>
           <li class="card">
             <div class="view front-view">
-              <img src={require("../images/que_icon.svg")} alt="?" />
+              <img src={require("../images/que_icon.png")} alt="?" />
             </div>
             <div class="view back-view">
               <img src={require("../images/img-4.png")} alt="card-img" />
@@ -250,7 +250,7 @@ function Pairs() {
           </li>
           <li class="card">
             <div class="view front-view">
-              <img src={require("../images/que_icon.svg")} alt="?" />
+              <img src={require("../images/que_icon.png")} alt="?" />
             </div>
             <div class="view back-view">
               <img src={require("../images/img-4.png")} alt="card-img" />
@@ -258,7 +258,7 @@ function Pairs() {
           </li>
           <li class="card">
             <div class="view front-view">
-              <img src={require("../images/que_icon.svg")} alt="?" />
+              <img src={require("../images/que_icon.png")} alt="?" />
             </div>
             <div class="view back-view">
               <img src={require("../images/img-4.png")} alt="card-img" />
